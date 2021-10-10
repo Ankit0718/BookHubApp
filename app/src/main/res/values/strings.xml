@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BookBazar</string>
+    <string name="dashboard">dashboard</string>
+    <string name="Dashboard">Dashboard</string>
+    <string name="favourites">Favourites</string>
+    <string name="profile">Profile</string>
+    <string name="about_app">About App</string>
+    <string name="navigation_drawer">Navigation Drawer</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dashboard_fragment">Dashboard Fragment</string>
+    <string name="favorites_fragments">Favourite Fragments</string>
+    <string name="Profile_Fragments">Profile Fragments</string>
+    <string name="About_App_fragment">About App</string>
+    <string name="hello_blank_fragnment">Hello Blank Fragment</string>
+    <string name="action_sort">Sort</string>
+</resources>
